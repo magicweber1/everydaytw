@@ -1,0 +1,29 @@
+﻿ <div class="clear"></div>
+            </ul>
+        </div>
+		
+		
+	
+
+        
+    </div>
+</div>
+<!--<div class="footer_content">-->
+<!--    <SPAN style="CLEAR: both; MARGIN-: 10px; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 20px; FONT-FAMILY: arial; HEIGHT: 10px; TEXT-ALIGN: center">-->
+<!--        <a>友情链接：</a><br>-->
+<!--        <br><a href="https://app.movie/">App影院</a>&nbsp;&nbsp;&nbsp;-->
+<!--        <a href="https://www.wenyamh.com/">全网漫画</a>&nbsp;&nbsp;&nbsp;-->
+<!--    </SPAN>-->
+<!--</div>-->
+<div class="footer_content">
+    <CENTER><SPAN style="CLEAR: both; MARGIN-: 10px; FONT-SIZE: 14px; COLOR: #666666; LINE-HEIGHT: 20px; FONT-FAMILY: arial; HEIGHT: 10px; TEXT-ALIGN: center">
+        <a id="powered_by_wenyateam">Powered by Weber</a>
+        <br>&copy;2022-2025 All Rights Reserved &nbsp; <br>
+    </SPAN></CENTER>
+</div>
+<script type="text/javascript" src="https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.staticfile.org/layer/2.3/layer.js"></script>
+<script type="text/javascript" src="https://cdn.staticfile.org/video.js/7.3.0/video.min.js"></script>
+<script type="text/javascript" src="iptv.js"></script>
+</body>
+</html>

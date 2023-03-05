@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="applicable-device" content="mobile">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <title>台湾电视台</title>
+    <META name="description" content="电视直播网提供网络电视直播，网络电视在线观看,更多网络电视尽在电视直播网!">
+    <META name="keywords" content="电视直播，网络电视,网络电视直播,网络电视在线直播">
+    <link rel="shortcut icon" href="http://www.luweibo.top/dplayer/tv.png" />
+	<!--<href="https://qnoss.lanlanlife.com/07c0549dbae43a31c377e4b06e145b08_128x128.png">-->
+    <link href="https://cdn.staticfile.org/video.js/7.3.0/video-js.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="http://www.luweibo.top/dplayer/style.css" />
+	<!--<href="https://cdn.wyteam.net/webapps/iptv/style.css?v=1.0">-->
+</head>
+<body>
+<header class="header">
+    <a class="top-logo icon" href=""><span>电视直播</span></a>
+</header>
+<div class="wrap">
+    <div class="content">
+        <div class="big_title"><span></span>
+            <h2>台湾频道</h2></div>
+        <div class="list-box J-medal">
+            <ul class="nav-type">
