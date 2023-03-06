@@ -87,7 +87,7 @@ class iptv_new():
         with open('temp/end_html.txt', 'r', encoding='utf-8') as f:
             end_html = f.read()
 
-        with open('TW.html', 'w', encoding='utf-8') as html_temp_f:   #再写html临时文件
+        with open('index.html', 'w', encoding='utf-8') as html_temp_f:   #再写html临时文件
             html_temp_f.write(start_html) # 写入 start_html 中的内容
             for i in list2:
                 li = '<li class="channel"><div class="channel-link-wrap"><a id="computer" class="channel-link" href="http://www.luweibo.top/dplayer/dplayer.html?url={}">{}</a></div></li>'.format(i['m3u8'],i['name'])
